@@ -203,13 +203,13 @@ nav a#pull {
 
 .box_about {
     text-align: justify;
-    padding: 20px 5px;
-    background: #fff;
+    padding: 20px 30px;
     border: 1px solid black;
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     margin-bottom: 30px;
+    height: 280px;
 }
 
 .box_about:hover {
@@ -219,4 +219,11 @@ nav a#pull {
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 10px 10px 10px 10px;
     -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+#about{
+    max-width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
 }

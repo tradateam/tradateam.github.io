@@ -1,1 +1,0 @@
-# tradateam.github.io

@@ -225,3 +225,7 @@ nav a#pull {
     max-width: 80%;
     margin: auto;
 }
+
+#main_content{
+    margin-top: 30px;
+}
